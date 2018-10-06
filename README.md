@@ -1,6 +1,8 @@
 # Unstable Fork
 
-This is an unstable branch for some experimentation - for more stable versions - please refer to the parent over at [zeit/hyper on github](https://github.com/zeit/hyper) 
+This is an unstable branch for some experimentation.
+
+For more stable versions, please refer to the parent over at [zeit/hyper on github](https://github.com/zeit/hyper) 
 
 # From original...
 
